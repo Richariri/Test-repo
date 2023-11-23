@@ -10,19 +10,20 @@ p {
     color:blue;
 }
 body {
-    background-image: radial-gradient(white, greenyellow);
+    background-image: radial-gradient(white, antiquewhite, rgb(188, 255, 188), greenyellow);
     font-family:century gothic;
+
 }
 img {
     border:10px double black;
     border-radius: 30px;
-    box-shadow: 10px 20px 55px;
+    box-shadow: 0px 10px 20px;
     
 }
 a:hover{
         COLOR:red;
 }
 section{
-    width: 500px;
-    margin: 0 auto;
+    text-align: center;
+    font-variant: small-caps;
 }
